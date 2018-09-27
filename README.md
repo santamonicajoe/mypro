@@ -1,2 +1,2 @@
-# mypro
+# myPro
 example of github version control
