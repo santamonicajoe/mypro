@@ -1,6 +1,6 @@
 .jumbotron{
     background-image: url(images/South-Park-Season-22-Release-Date.jpg)
-
+}
     .btn-primary{color: pink;
 
     }
@@ -8,5 +8,11 @@
     .btn-hover{ color: green;
 
 }
+@media screen and (max-width: 600px){
+    body{ 
+    background-color: blue; 
+    }
+    
+
 
 }
